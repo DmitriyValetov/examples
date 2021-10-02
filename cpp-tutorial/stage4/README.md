@@ -1,0 +1,1 @@
+example of use local_repositiry for bazel

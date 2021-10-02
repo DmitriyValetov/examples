@@ -1,0 +1,5 @@
+local_repository(
+    name = "sub_project",
+    path = "../sub_project",
+    # path = "/Users/a19370262/Documents/exp/bazel_my_git_examples/cpp-tutorial/stage4/sub_project",
+)
